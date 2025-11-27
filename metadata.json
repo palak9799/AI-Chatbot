@@ -1,0 +1,5 @@
+{
+  "name": "Gemini NLP Chatbot",
+  "description": "A sophisticated React-based conversational AI interface powered by Google's Gemini API. Features multi-turn dialogue, real-time streaming responses, and a polished UI.",
+  "requestFramePermissions": []
+}
